@@ -1,1 +1,1 @@
-This is but a fun project of mine after trying to understand how to set up datapacks applied to custom and modded weapons to epic fight
+This is but a fun project of mine after trying to understand how to set up datapacks applied to custom and modded weapons to epic fight, I'll try to recover the mods and addons needed for these scuffed datapacks to work
